@@ -1,0 +1,11 @@
+xarray
+zarr
+gcsfs
+dask
+netCDF4
+numpy
+pandas
+ecmwf-datastores-client
+matplotlib
+scikit-learn
+torch
